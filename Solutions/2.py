@@ -1,5 +1,4 @@
-def sum(num1, num2):
-    result = num1 + num2  
-    print(f"The sum of {num1} & {num2} is {result}")
+def sum(num1, num2):  
+    return f"The sum of {num1} & {num2} is {num1+num2}"
 
-sum(2,45)
+print(sum(2,5))
