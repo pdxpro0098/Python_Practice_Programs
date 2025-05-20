@@ -1,4 +1,4 @@
 def areaTriangle(height, base):
-    return f"The area of triangle is {1/2*(base*height)}"
+    return 1/2*(base*height)
 
-print(areaTriangle(8, 4))
+print("The are of triangle is:",areaTriangle(8, 4))
