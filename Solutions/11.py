@@ -1,9 +1,9 @@
-def noCheck(a):
-    if (a < 0):
+def numberCheck(a):
+    if a < 0:
         print("Negative")
-    elif (a > 0):
+    elif a > 0:
         print("Positive")
     else:
         print("Zero!")
     
-noCheck(54)
+numberCheck(54)
