@@ -1,5 +1,5 @@
 def checkOddEven(a):
     c = "Even" if a % 2 == 0 else "Odd"
-    print(c)
+    return c
 
-checkOddEven(78)
+print(checkOddEven(7))
