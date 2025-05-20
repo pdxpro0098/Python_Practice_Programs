@@ -1,6 +1,8 @@
-a = [2,4,5,6,2]
-result = 0
-for i in range(0,len(a)):
-    result = result + a[i]
+def sumNatural(*a):
+        result = 0
+        for i in a:
+            result += i
+        return result
+        
 
-print(result)
+print(f"The sum of all Natural No is: {sumNatural(1,2,3,4,5)}")
