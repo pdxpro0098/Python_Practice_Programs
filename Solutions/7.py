@@ -1,4 +1,4 @@
-def celsiusFarenherit(celsius):
-    return f"{celsius} degree celsius is equal to {(celsius * 9/5) + 32} degree Farenherit"
+def celsiusToFarenherit(celsius):
+    return (celsius * 9/5) + 32
 
-print(celsiusFarenherit(42))
+print(celsiusToFarenherit(-6))
