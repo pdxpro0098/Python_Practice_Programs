@@ -1,4 +1,4 @@
 def kilometersMiles(kilometers):
-    return f"{kilometers} kilometers is equal to {(0.62 * kilometers)} miles"
+    return 0.62 * kilometers
 
-print(kilometersMiles(5))
+print(kilometersMiles(5),"miles")
