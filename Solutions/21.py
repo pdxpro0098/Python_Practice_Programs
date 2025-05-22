@@ -1,6 +1,7 @@
-sum = 0
-limit = int(input("Enter the limit: "))
+def sumOfNatural(number):
+    sum = 0
+    for i in range(1,number+1):
+        sum += i
+    return sum  
 
-for i in range(1,limit+1):
-    sum += i
-print(f"The sum of {limit} is {sum}")   
+print(sumOfNatural(9))
