@@ -1,10 +1,10 @@
 # Python_Practice_Programs
 
 <code style="color : green">
-1. Write a Python program to print "Hello Python".
+
 </code>
 
-$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
+$${\color{lightgreen}{1. Write a Python program to print "Hello Python".}}$$
 
 2. Write a Python program to do arithmetical operations addition and division.
 
