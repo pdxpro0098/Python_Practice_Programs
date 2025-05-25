@@ -1,6 +1,6 @@
 # Python_Practice_Programs
 
-<code style="color : Green">
+<code style="color : green">
 1. Write a Python program to print "Hello Python".
 </code>
 
