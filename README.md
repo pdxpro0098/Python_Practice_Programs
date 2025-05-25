@@ -1,6 +1,8 @@
 # Python_Practice_Programs
 
+<code style="color : Green">
 1. Write a Python program to print "Hello Python".
+</code>
 
 2. Write a Python program to do arithmetical operations addition and division.
 
