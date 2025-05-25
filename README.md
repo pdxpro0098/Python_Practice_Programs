@@ -1,278 +1,279 @@
 # Python_Practice_Programs
-Write a Python program to print "Hello Python".
 
-Write a Python program to do arithmetical operations addition and division.
+1. Write a Python program to print "Hello Python".
 
-Write a Python program to find the area of a triangle.
+2. Write a Python program to do arithmetical operations addition and division.
 
-Write a Python program to swap two variables.
+3. Write a Python program to find the area of a triangle.
 
-Write a Python program to generate a random number.
+4. Write a Python program to swap two variables.
 
-Write a Python program to convert kilometers to miles.
+5. Write a Python program to generate a random number.
 
-Write a Python program to convert Celsius to Fahrenheit.
+6. Write a Python program to convert kilometers to miles.
 
-Write a Python program to display calendar.
+7. Write a Python program to convert Celsius to Fahrenheit.
 
-Write a Python program to solve quadratic equation.
+8. Write a Python program to display calendar.
 
-Write a Python program to swap two variables without temp variable.
+9. Write a Python program to solve quadratic equation.
 
-Write a Python program to check if a number is positive, negative or zero.
+10. Write a Python program to swap two variables without temp variable.
 
-Write a Python program to check if a number is odd or even.
+11. Write a Python program to check if a number is positive, negative or zero.
 
-Write a Python program to check leap year.
+12. Write a Python program to check if a number is odd or even.
 
-Write a Python program to check prime number.
+13. Write a Python program to check leap year.
 
-Write a Python program to print all prime numbers in an interval of 1-10.
+14. Write a Python program to check prime number.
 
-Write a Python program to find the factorial of a number.
+15. Write a Python program to print all prime numbers in an interval of 1-10.
 
-Write a Python program to display the multiplication table.
+16. Write a Python program to find the factorial of a number.
 
-Write a Python program to print the Fibonacci sequence.
+17. Write a Python program to display the multiplication table.
 
-Write a Python program to check Armstrong number.
+18. Write a Python program to print the Fibonacci sequence.
 
-Write a Python program to find Armstrong numbers in an interval.
+19. Write a Python program to check Armstrong number.
 
-Write a Python program to find the sum of natural numbers.
+20. Write a Python program to find Armstrong numbers in an interval.
 
-Write a Python program to find LCM.
+21. Write a Python program to find the sum of natural numbers.
 
-Write a Python program to find HCF.
+22. Write a Python program to find LCM.
 
-Write a Python program to convert decimal to binary, octal and hexadecimal.
+23. Write a Python program to find HCF.
 
-Write a Python program to find ASCII value of a character.
+24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
-Write a Python program to make a simple calculator with 4 basic mathematical operations.
+25. Write a Python program to find ASCII value of a character.
 
-Write a Python program to display Fibonacci sequence using recursion.
+26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
 
-Write a Python program to find factorial of number using recursion.
+27. Write a Python program to display Fibonacci sequence using recursion.
 
-Write a Python program to calculate your Body Mass Index.
+28. Write a Python program to find factorial of number using recursion.
 
-Write a Python program to calculate the natural logarithm of any number.
+29. Write a Python program to calculate your Body Mass Index.
 
-Write a Python program for cube sum of first n natural numbers.
+30. Write a Python program to calculate the natural logarithm of any number.
 
-Write a Python program to find sum of array.
+31. Write a Python program for cube sum of first n natural numbers.
 
-Write a Python program to find largest element in an array.
+32. Write a Python program to find sum of array.
 
-Write a Python program for array rotation.
+33. Write a Python program to find largest element in an array.
 
-Write a Python program to split the array and add the first part to the end.
+34. Write a Python program for array rotation.
 
-Write a Python program to check if given array is monotonic.
+35. Write a Python program to split the array and add the first part to the end.
 
-Write a Python program to add two matrices.
+36. Write a Python program to check if given array is monotonic.
 
-Write a Python program to multiply two matrices.
+37. Write a Python program to add two matrices.
 
-Write a Python program to transpose a matrix.
+38. Write a Python program to multiply two matrices.
 
-Write a Python program to sort words in alphabetic order.
+39. Write a Python program to transpose a matrix.
 
-Write a Python program to remove punctuation from a string.
+40. Write a Python program to sort words in alphabetic order.
 
-Write a Python program to check if the given number is a Disarium Number.
+41. Write a Python program to remove punctuation from a string.
 
-Write a Python program to print all disarium numbers between 1 to 100.
+42. Write a Python program to check if the given number is a Disarium Number.
 
-Write a Python program to check if the given number is Happy Number.
+43. Write a Python program to print all disarium numbers between 1 to 100.
 
-Write a Python program to print all happy numbers between 1 and 100.
+44. Write a Python program to check if the given number is Happy Number.
 
-Write a Python program to determine whether the given number is a Harshad Number.
+45. Write a Python program to print all happy numbers between 1 and 100.
 
-Write a Python program to print all pronic numbers between 1 and 100.
+46. Write a Python program to determine whether the given number is a Harshad Number.
 
-Write a Python program to find sum of elements in list.
+47. Write a Python program to print all pronic numbers between 1 and 100.
 
-Write a Python program to multiply all numbers in the list.
+48. Write a Python program to find sum of elements in list.
 
-Write a Python program to find smallest number in a list.
+49. Write a Python program to multiply all numbers in the list.
 
-Write a Python program to find largest number in a list.
+50. Write a Python program to find smallest number in a list.
 
-Write a Python program to find second largest number in a list.
+51. Write a Python program to find largest number in a list.
 
-Write a Python program to find N largest elements from a list.
+52. Write a Python program to find second largest number in a list.
 
-Write a Python program to print even numbers in a list.
+53. Write a Python program to find N largest elements from a list.
 
-Write a Python program to print odd numbers in a list.
+54. Write a Python program to print even numbers in a list.
 
-Write a Python program to remove empty list from list.
+55. Write a Python program to print odd numbers in a list.
 
-Write a Python program for cloning or copying a list.
+56. Write a Python program to remove empty list from list.
 
-Write a Python program to count occurrences of an element in a list.
+57. Write a Python program for cloning or copying a list.
 
-Write a Python program to find words which are greater than given length k.
+58. Write a Python program to count occurrences of an element in a list.
 
-Write a Python program for removing ith character from a string.
+59. Write a Python program to find words which are greater than given length k.
 
-Write a Python program to split and join a string.
+60. Write a Python program for removing ith character from a string.
 
-Write a Python program to check if a given string is binary string or not.
+61. Write a Python program to split and join a string.
 
-Write a Python program to find uncommon words from two strings.
+62. Write a Python program to check if a given string is binary string or not.
 
-Write a Python Program to find duplicate characters in a string.
+63. Write a Python program to find uncommon words from two strings.
 
-Write a Python Program to check if a string contains any special character.
+64. Write a Python Program to find duplicate characters in a string.
 
-Write a Python Program to extract unique dictionary values.
+65. Write a Python Program to check if a string contains any special character.
 
-Write a Python Program to merge two dictionaries.
+66. Write a Python Program to extract unique dictionary values.
 
-Write a Python Program to sort a dictionary by key.
+67. Write a Python Program to merge two dictionaries.
 
-Write a Python Program to sort a dictionary by value.
+68. Write a Python Program to sort a dictionary by key.
 
-Write a Python Program to sum all the items in a dictionary.
+69. Write a Python Program to sort a dictionary by value.
 
-Write a Python Program to multiply all the items in a dictionary.
+70. Write a Python Program to sum all the items in a dictionary.
 
-Write a Python Program to remove a key from a dictionary.
+71. Write a Python Program to multiply all the items in a dictionary.
 
-Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
+72. Write a Python Program to remove a key from a dictionary.
 
-Write a Python Program to generate a 2D array where the element value is i*j.
+73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
 
-Write a Python Program to sort a comma-separated sequence of words alphabetically.
+74. Write a Python Program to generate a 2D array where the element value is i*j.
 
-Write a Python Program to remove duplicate words and sort them alphanumerically.
+75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
 
-Write a Python Program to count the number of each character in a string.
+76. Write a Python Program to remove duplicate words and sort them alphanumerically.
 
-Write a Python Program to count letters and digits in a sentence.
+77. Write a Python Program to count the number of each character in a string.
 
-Write a Python Program to check password validity based on multiple conditions.
+78. Write a Python Program to count letters and digits in a sentence.
 
-Write a Python Program to generate numbers divisible by 7 using a generator.
+79. Write a Python Program to check password validity based on multiple conditions.
 
-Write a Python Program to calculate bank account net amount from transaction log.
+80. Write a Python Program to generate numbers divisible by 7 using a generator.
 
-Write a Python Program to sort a list of tuples based on the second element.
+81. Write a Python Program to calculate bank account net amount from transaction log.
 
-Write a Python Program to count frequency of words in a given line of text.
+82. Write a Python Program to sort a list of tuples based on the second element.
 
-Write a Python Program to compress and decompress a string using zlib.
+83. Write a Python Program to count frequency of words in a given line of text.
 
-Write a Python Program to implement binary search in a sorted list.
+84. Write a Python Program to compress and decompress a string using zlib.
 
-Write a Python Program using generator to print numbers divisible by 5 and 7.
+85. Write a Python Program to implement binary search in a sorted list.
 
-Write a Python Program using generator to print even numbers up to n.
+86. Write a Python Program using generator to print numbers divisible by 5 and 7.
 
-Write a Python Program using list comprehension to generate Fibonacci Sequence.
+87. Write a Python Program using generator to print even numbers up to n.
 
-Write a Python Program to extract username from email address.
+88. Write a Python Program using list comprehension to generate Fibonacci Sequence.
 
-Write a Python Program to sort a list of tuples alphabetically.
+89. Write a Python Program to extract username from email address.
 
-Write a Python Program to check if a string is a pangram.
+90. Write a Python Program to sort a list of tuples alphabetically.
 
-Write a Python Program to count occurrences of each word in a sentence.
+91. Write a Python Program to check if a string is a pangram.
 
-Write a Python Program to check if a number is a Curzon number.
+92. Write a Python Program to count occurrences of each word in a sentence.
 
-Write a Python Program to find area of a hexagon.
+93. Write a Python Program to check if a number is a Curzon number.
 
-Write a Python Program to convert decimal number to binary.
+94. Write a Python Program to find area of a hexagon.
 
-Write a Python Program to return sum of numbers divisible by c from range a to b.
+95. Write a Python Program to convert decimal number to binary.
 
-Write a Python Program to validate inequality expressions.
+96. Write a Python Program to return sum of numbers divisible by c from range a to b.
 
-Write a Python Program to convert snake_case to camelCase.
+97. Write a Python Program to validate inequality expressions.
 
-Write a Python Program to check if a year is a leap year.
+98. Write a Python Program to convert snake_case to camelCase.
 
-Write a Python Program to create a class and display its attributes.
+99. Write a Python Program to check if a year is a leap year.
 
-Write a Python Program to define a Circle class with area and perimeter methods.
+100. Write a Python Program to create a class and display its attributes.
 
-Write a Python Program to implement a simple calculator using classes.
+101. Write a Python Program to define a Circle class with area and perimeter methods.
 
-Write a Python Program to unpack list values into variables.
+102. Write a Python Program to implement a simple calculator using classes.
 
-Write a Python Program to calculate factorial using recursion.
+103. Write a Python Program to unpack list values into variables.
 
-Write a Python Program to move all elements of one type to the end of a list.
+104. Write a Python Program to calculate factorial using recursion.
 
-Write a Python Program to check if a list is symmetric.
+105. Write a Python Program to move all elements of one type to the end of a list.
 
-Write a Python Program to check if a list is symmetric.
+106. Write a Python Program to check if a list is symmetric.
 
-Write a Python Program to find maximum product of two integers in an array.
+107. Write a Python Program to check if a list is symmetric.
 
-Write a Python Program to calculate sum of all even numbers in a list.
+108. Write a Python Program to find maximum product of two integers in an array.
 
-Write a Python Program to find the index of all capital letters in a word.
+109. Write a Python Program to calculate sum of all even numbers in a list.
 
-Write a Python Program to filter a list and return only integers.
+110. Write a Python Program to find the index of all capital letters in a word.
 
-Write a Python Program to add index values to elements in a list.
+111. Write a Python Program to filter a list and return only integers.
 
-Write a Python Program to multiply numbers given as comma-separated string.
+112. Write a Python Program to add index values to elements in a list.
 
-Write a Python Program to check if a string ends with a certain suffix.
+113. Write a Python Program to multiply numbers given as comma-separated string.
 
-Write a Python Program to return the next number in a list after popping the first.
+114. Write a Python Program to check if a string ends with a certain suffix.
 
-Write a Python Program to merge two dictionaries using dictionary comprehension.
+115. Write a Python Program to return the next number in a list after popping the first.
 
-Write a Python Program to reverse a string without using built-in reverse.
+116. Write a Python Program to merge two dictionaries using dictionary comprehension.
 
-Write a Python Program to sort letters of a string alphabetically.
+117. Write a Python Program to reverse a string without using built-in reverse.
 
-Write a Python Program to compute compound interest.
+118. Write a Python Program to sort letters of a string alphabetically.
 
-Write a Python Program to check if a string is palindrome.
+119. Write a Python Program to compute compound interest.
 
-Write a Python Program to count the vowels in a string.
+120. Write a Python Program to check if a string is palindrome.
 
-Write a Python Program to reverse words in a given string.
+121. Write a Python Program to count the vowels in a string.
 
-Write a Python Program to calculate perimeter of a rectangle.
+122. Write a Python Program to reverse words in a given string.
 
-Write a Python Program to check if two strings are anagrams.
+123. Write a Python Program to calculate perimeter of a rectangle.
 
-Write a Python Program to check whether a string contains only digits.
+124. Write a Python Program to check if two strings are anagrams.
 
-Write a Python Program to print the common elements between two lists.
+125. Write a Python Program to check whether a string contains only digits.
 
-Write a Python Program to convert lowercase characters to uppercase.
+126. Write a Python Program to print the common elements between two lists.
 
-Write a Python Program to square every digit of a number.
+127. Write a Python Program to convert lowercase characters to uppercase.
 
-Write a Python Program to remove duplicates and sort a list.
+128. Write a Python Program to square every digit of a number.
 
-Write a Python Program to calculate the mean of digits of a number.
+129. Write a Python Program to remove duplicates and sort a list.
 
-Write a Python Program to multiply all digits in a number.
+130. Write a Python Program to calculate the mean of digits of a number.
 
-Write a Python Program to convert hours and minutes to seconds.
+131. Write a Python Program to multiply all digits in a number.
 
-Write a Python Program to count set bits in binary representation of a number.
+132. Write a Python Program to convert hours and minutes to seconds.
 
-Write a Python Program to count words in a file.
+133. Write a Python Program to count set bits in binary representation of a number.
 
-Write a Python Program to read a file line by line and store it into a list.
+134. Write a Python Program to count words in a file.
 
-Write a Python Program to append text to a file and display the content.
+135. Write a Python Program to read a file line by line and store it into a list.
 
-Write a Python Program to copy the contents of a file to another file.
+136. Write a Python Program to append text to a file and display the content.
 
-Write a Python Program to merge two text files and write into a new one.
+137. Write a Python Program to copy the contents of a file to another file.
 
-Write a Python Program to remove newline characters from a file.
+138. Write a Python Program to merge two text files and write into a new one.
+
+139. Write a Python Program to remove newline characters from a file.
