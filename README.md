@@ -1,50 +1,46 @@
 # Python_Practice_Programs
 
-<code style="color : green">
+✅1. Write a Python program to print "Hello Python".
 
-</code>
+✅2. Write a Python program to do arithmetical operations addition and division.
 
-$${\color{lightgreen}{1. Write a Python program to print "Hello Python".}}$$
+✅3. Write a Python program to find the area of a triangle.
 
-2. Write a Python program to do arithmetical operations addition and division.
+✅4. Write a Python program to swap two variables.
 
-3. Write a Python program to find the area of a triangle.
+✅5. Write a Python program to generate a random number.
 
-4. Write a Python program to swap two variables.
+✅6. Write a Python program to convert kilometers to miles.
 
-5. Write a Python program to generate a random number.
+✅7. Write a Python program to convert Celsius to Fahrenheit.
 
-6. Write a Python program to convert kilometers to miles.
-
-7. Write a Python program to convert Celsius to Fahrenheit.
-
-8. Write a Python program to display calendar.
+✅8. Write a Python program to display calendar.
 
 9. Write a Python program to solve quadratic equation.
 
-10. Write a Python program to swap two variables without temp variable.
+✅10. Write a Python program to swap two variables without temp variable.
 
-11. Write a Python program to check if a number is positive, negative or zero.
+✅11. Write a Python program to check if a number is positive, negative or zero.
 
-12. Write a Python program to check if a number is odd or even.
+✅12. Write a Python program to check if a number is odd or even.
 
 13. Write a Python program to check leap year.
 
-14. Write a Python program to check prime number.
+✅14. Write a Python program to check prime number.
 
 15. Write a Python program to print all prime numbers in an interval of 1-10.
 
-16. Write a Python program to find the factorial of a number.
+✅16. Write a Python program to find the factorial of a number.
 
-17. Write a Python program to display the multiplication table.
+✅17. Write a Python program to display the multiplication table.
 
-18. Write a Python program to print the Fibonacci sequence.
+✅18. Write a Python program to print the Fibonacci sequence.
 
 19. Write a Python program to check Armstrong number.
 
 20. Write a Python program to find Armstrong numbers in an interval.
 
-21. Write a Python program to find the sum of natural numbers.
+✅21. Write a Python program to find the sum of natural numbers.
 
 22. Write a Python program to find LCM.
 
@@ -52,7 +48,7 @@ $${\color{lightgreen}{1. Write a Python program to print "Hello Python".}}$$
 
 24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
-25. Write a Python program to find ASCII value of a character.
+✅25. Write a Python program to find ASCII value of a character.
 
 26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
 
@@ -64,9 +60,9 @@ $${\color{lightgreen}{1. Write a Python program to print "Hello Python".}}$$
 
 30. Write a Python program to calculate the natural logarithm of any number.
 
-31. Write a Python program for cube sum of first n natural numbers.
+✅31. Write a Python program for cube sum of first n natural numbers.
 
-32. Write a Python program to find sum of array.
+✅32. Write a Python program to find sum of array.
 
 33. Write a Python program to find largest element in an array.
 
