@@ -42,9 +42,9 @@
 
 ✅21. Write a Python program to find the sum of natural numbers.
 
-22. Write a Python program to find LCM.
+22. Write a Python program to find HCF.
 
-23. Write a Python program to find HCF.
+23. Write a Python program to find LCM.
 
 24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
