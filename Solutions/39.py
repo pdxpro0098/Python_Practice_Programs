@@ -4,7 +4,7 @@ mat1 = [
     [2, 2, 2]
 ]
 
-for j in range(3):
-    for i in range(3):
-        print(mat1[i][j],end=" ")
-    print()
+
+for i in range(3):
+    for j in range(3):
+        print(mat1[j][i],end="")
