@@ -24,11 +24,11 @@
 
 ✅12. Write a Python program to check if a number is odd or even.
 
-13. Write a Python program to check leap year.
+✅13. Write a Python program to check leap year.
 
 ✅14. Write a Python program to check prime number.
 
-15. Write a Python program to print all prime numbers in an interval of 1-10.
+✅15. Write a Python program to print all prime numbers in an interval of 1-10.
 
 ✅16. Write a Python program to find the factorial of a number.
 
