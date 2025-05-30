@@ -52,7 +52,7 @@
 
 26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
 
-27. Write a Python program to display Fibonacci sequence using recursion.
+✅27. Write a Python program to display Fibonacci sequence using recursion.
 
 28. Write a Python program to find factorial of number using recursion.
 
