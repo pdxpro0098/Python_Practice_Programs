@@ -38,7 +38,7 @@
 
 ✅19. Write a Python program to check Armstrong number.
 
-20. Write a Python program to find Armstrong numbers in an interval.
+✅20. Write a Python program to find Armstrong numbers in an interval.
 
 ✅21. Write a Python program to find the sum of natural numbers.
 
