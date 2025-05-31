@@ -64,7 +64,7 @@
 
 ✅32. Write a Python program to find sum of array.
 
-33. Write a Python program to find largest element in an array.
+✅33. Write a Python program to find largest element in an array.
 
 34. Write a Python program for array rotation.
 
