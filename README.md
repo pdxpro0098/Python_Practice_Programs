@@ -56,7 +56,7 @@
 
 28. Write a Python program to find factorial of number using recursion.
 
-29. Write a Python program to calculate your Body Mass Index.
+✅29. Write a Python program to calculate your Body Mass Index.
 
 30. Write a Python program to calculate the natural logarithm of any number.
 
