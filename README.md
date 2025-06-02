@@ -66,7 +66,7 @@
 
 ✅33. Write a Python program to find largest element in an array.
 
-34. Write a Python program for array rotation.
+✅34. Write a Python program for array rotation.
 
 35. Write a Python program to split the array and add the first part to the end.
 
