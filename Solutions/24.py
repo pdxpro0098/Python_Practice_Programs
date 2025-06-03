@@ -1,3 +1,4 @@
+# Function Definition
 def DecimalToBinaryConverter(num):
     binary = list()
     while num != 0:
@@ -5,21 +6,20 @@ def DecimalToBinaryConverter(num):
         num //= 2
     binary.reverse()
 
-    print("Binary", binary)
+    return binary
 
 
+# Function Definition
 def DecimalToOctalConverter(num):
     octal = list()
     while num != 0:
         octal.append(num % 8)
         num //= 8
     octal.reverse()
-    
-    print("Octal", octal)
+    return octal
 
-
+# Function Definition
 def DecimalToHexadecimalConverter(num):
-
     hex = list()
     hexadecimal = list()
 
@@ -43,13 +43,13 @@ def DecimalToHexadecimalConverter(num):
             hexadecimal.append("F")
         else:
             hexadecimal.append(num)
+    return hex
 
-    print("Hexadecimal", hexadecimal)
 
-
+# Function Calling
 num = 12345
-DecimalToBinaryConverter(num)
+print("Binary", DecimalToBinaryConverter(num))
 
-DecimalToOctalConverter(num)
+print("Octal", DecimalToOctalConverter(num))
 
-DecimalToHexadecimalConverter(num)
+print("Hexadecimal", DecimalToHexadecimalConverter(num))
