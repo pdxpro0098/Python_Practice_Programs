@@ -14,6 +14,7 @@ def DecimalToOctalConverter(num):
         octal.append(num % 8)
         num //= 8
     octal.reverse()
+    
     print("Octal", octal)
 
 
@@ -46,7 +47,7 @@ def DecimalToHexadecimalConverter(num):
     print("Hexadecimal", hexadecimal)
 
 
-num = 3
+num = 12345
 DecimalToBinaryConverter(num)
 
 DecimalToOctalConverter(num)
