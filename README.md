@@ -45,8 +45,8 @@
 ✅22. Write a Python program to find HCF.
 
 ✅23. Write a Python program to find LCM.
-
-24. Write a Python program to convert decimal to binary, octal and hexadecimal.
+    
+✅24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
 ✅25. Write a Python program to find ASCII value of a character.
 
@@ -54,7 +54,7 @@
 
 ✅27. Write a Python program to display Fibonacci sequence using recursion.
 
-28. Write a Python program to find factorial of number using recursion.
+✅28. Write a Python program to find factorial of number using recursion.
 
 ✅29. Write a Python program to calculate your Body Mass Index.
 
