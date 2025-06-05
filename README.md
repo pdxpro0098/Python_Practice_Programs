@@ -68,7 +68,7 @@
 
 ✅34. Write a Python program for array rotation.
 
-35. Write a Python program to split the array and add the first part to the end.
+✅35. Write a Python program to split the array and add the first part to the end.
 
 36. Write a Python program to check if given array is monotonic.
 
