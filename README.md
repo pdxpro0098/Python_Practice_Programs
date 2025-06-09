@@ -70,17 +70,17 @@
 
 ✅35. Write a Python program to split the array and add the first part to the end.
 
-36. Write a Python program to check if given array is monotonic.
+✅36. Write a Python program to check if given array is monotonic.
 
-37. Write a Python program to add two matrices.
+✅37. Write a Python program to add two matrices.
 
-38. Write a Python program to multiply two matrices.
+✅38. Write a Python program to multiply two matrices.
 
-39. Write a Python program to transpose a matrix.
+✅39. Write a Python program to transpose a matrix.
 
 40. Write a Python program to sort words in alphabetic order.
 
-41. Write a Python program to remove punctuation from a string.
+✅41. Write a Python program to remove punctuation from a string.
 
 42. Write a Python program to check if the given number is a Disarium Number.
 
