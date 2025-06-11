@@ -90,7 +90,7 @@
 
 45. Write a Python program to print all happy numbers between 1 and 100.
 
-46. Write a Python program to determine whether the given number is a Harshad Number.
+✅ 46. Write a Python program to determine whether the given number is a Harshad Number.
 
 47. Write a Python program to print all pronic numbers between 1 and 100.
 
