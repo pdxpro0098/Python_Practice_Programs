@@ -94,7 +94,7 @@
 
 47. Write a Python program to print all pronic numbers between 1 and 100.
 
-48. Write a Python program to find sum of elements in list.
+✅ 48. Write a Python program to find sum of elements in list.
 
 49. Write a Python program to multiply all numbers in the list.
 
