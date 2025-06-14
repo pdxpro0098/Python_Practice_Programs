@@ -96,7 +96,7 @@
 
 ✅ 48. Write a Python program to find sum of elements in list.
 
-49. Write a Python program to multiply all numbers in the list.
+✅ 49. Write a Python program to multiply all numbers in the list.
 
 50. Write a Python program to find smallest number in a list.
 
