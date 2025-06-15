@@ -98,7 +98,7 @@
 
 ✅ 49. Write a Python program to multiply all numbers in the list.
 
-50. Write a Python program to find smallest number in a list.
+✅ 50. Write a Python program to find smallest number in a list.
 
 51. Write a Python program to find largest number in a list.
 
