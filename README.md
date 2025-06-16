@@ -100,7 +100,7 @@
 
 ✅ 50. Write a Python program to find smallest number in a list.
 
-51. Write a Python program to find largest number in a list.
+✅ 51. Write a Python program to find largest number in a list.
 
 52. Write a Python program to find second largest number in a list.
 
