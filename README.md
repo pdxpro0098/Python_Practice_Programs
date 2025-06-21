@@ -1,86 +1,86 @@
 # Python_Practice_Programs
 
-✅1. Write a Python program to print "Hello Python".
+✅ 1. Write a Python program to print "Hello Python".
 
-✅2. Write a Python program to do arithmetical operations addition and division.
+✅ 2. Write a Python program to do arithmetical operations addition and division.
 
-✅3. Write a Python program to find the area of a triangle.
+✅ 3. Write a Python program to find the area of a triangle.
 
-✅4. Write a Python program to swap two variables.
+✅ 4. Write a Python program to swap two variables.
 
-✅5. Write a Python program to generate a random number.
+✅ 5. Write a Python program to generate a random number.
 
-✅6. Write a Python program to convert kilometers to miles.
+✅ 6. Write a Python program to convert kilometers to miles.
 
-✅7. Write a Python program to convert Celsius to Fahrenheit.
+✅ 7. Write a Python program to convert Celsius to Fahrenheit.
 
-✅8. Write a Python program to display calendar.
+✅ 8. Write a Python program to display calendar.
 
 9. Write a Python program to solve quadratic equation.
 
-✅10. Write a Python program to swap two variables without temp variable.
+✅ 10. Write a Python program to swap two variables without temp variable.
 
-✅11. Write a Python program to check if a number is positive, negative or zero.
+✅ 11. Write a Python program to check if a number is positive, negative or zero.
 
-✅12. Write a Python program to check if a number is odd or even.
+✅ 12. Write a Python program to check if a number is odd or even.
 
-✅13. Write a Python program to check leap year.
+✅ 13. Write a Python program to check leap year.
 
-✅14. Write a Python program to check prime number.
+✅ 14. Write a Python program to check prime number.
 
-✅15. Write a Python program to print all prime numbers in an interval of 1-10.
+✅ 15. Write a Python program to print all prime numbers in an interval of 1-10.
 
-✅16. Write a Python program to find the factorial of a number.
+✅ 16. Write a Python program to find the factorial of a number.
 
-✅17. Write a Python program to display the multiplication table.
+✅ 17. Write a Python program to display the multiplication table.
 
-✅18. Write a Python program to print the Fibonacci sequence.
+✅ 18. Write a Python program to print the Fibonacci sequence.
 
-✅19. Write a Python program to check Armstrong number.
+✅ 19. Write a Python program to check Armstrong number.
 
-✅20. Write a Python program to find Armstrong numbers in an interval.
+✅ 20. Write a Python program to find Armstrong numbers in an interval.
 
-✅21. Write a Python program to find the sum of natural numbers.
+✅ 21. Write a Python program to find the sum of natural numbers.
 
-✅22. Write a Python program to find HCF.
+✅ 22. Write a Python program to find HCF.
 
-✅23. Write a Python program to find LCM.
+✅ 23. Write a Python program to find LCM.
     
-✅24. Write a Python program to convert decimal to binary, octal and hexadecimal.
+✅ 24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
-✅25. Write a Python program to find ASCII value of a character.
+✅ 25. Write a Python program to find ASCII value of a character.
 
 26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
 
-✅27. Write a Python program to display Fibonacci sequence using recursion.
+✅ 27. Write a Python program to display Fibonacci sequence using recursion.
 
-✅28. Write a Python program to find factorial of number using recursion.
+✅ 28. Write a Python program to find factorial of number using recursion.
 
-✅29. Write a Python program to calculate your Body Mass Index.
+✅ 29. Write a Python program to calculate your Body Mass Index.
 
 30. Write a Python program to calculate the natural logarithm of any number.
 
-✅31. Write a Python program for cube sum of first n natural numbers.
+✅ 31. Write a Python program for cube sum of first n natural numbers.
 
-✅32. Write a Python program to find sum of array.
+✅ 32. Write a Python program to find sum of array.
 
-✅33. Write a Python program to find largest element in an array.
+✅ 33. Write a Python program to find largest element in an array.
 
-✅34. Write a Python program for array rotation.
+✅ 34. Write a Python program for array rotation.
 
-✅35. Write a Python program to split the array and add the first part to the end.
+✅ 35. Write a Python program to split the array and add the first part to the end.
 
-✅36. Write a Python program to check if given array is monotonic.
+✅ 36. Write a Python program to check if given array is monotonic.
 
-✅37. Write a Python program to add two matrices.
+✅ 37. Write a Python program to add two matrices.
 
-✅38. Write a Python program to multiply two matrices.
+✅ 38. Write a Python program to multiply two matrices.
 
-✅39. Write a Python program to transpose a matrix.
+✅ 39. Write a Python program to transpose a matrix.
 
-40. Write a Python program to sort words in alphabetic order.
+✅ 40. Write a Python program to sort words in alphabetic order.
 
-✅41. Write a Python program to remove punctuation from a string.
+✅ 41. Write a Python program to remove punctuation from a string.
 
 42. Write a Python program to check if the given number is a Disarium Number.
 
@@ -102,7 +102,7 @@
 
 ✅ 51. Write a Python program to find largest number in a list.
 
-52. Write a Python program to find second largest number in a list.
+✅ 52. Write a Python program to find second largest number in a list.
 
 53. Write a Python program to find N largest elements from a list.
 
