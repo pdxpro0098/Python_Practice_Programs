@@ -50,7 +50,7 @@
 
 ✅ 25. Write a Python program to find ASCII value of a character.
 
-26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
+✅ 26. Write a Python program to make a simple calculator with 4 basic mathematical operations.
 
 ✅ 27. Write a Python program to display Fibonacci sequence using recursion.
 
