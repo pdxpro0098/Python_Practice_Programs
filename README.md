@@ -82,9 +82,9 @@
 
 ✅ 41. Write a Python program to remove punctuation from a string.
 
-42. Write a Python program to check if the given number is a Disarium Number.
+✅ 42. Write a Python program to check if the given number is a Disarium Number.
 
-43. Write a Python program to print all disarium numbers between 1 to 100.
+✅ 43. Write a Python program to print all disarium numbers between 1 to 100.
 
 44. Write a Python program to check if the given number is Happy Number.
 
