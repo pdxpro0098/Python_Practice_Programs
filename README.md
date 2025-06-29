@@ -104,7 +104,7 @@
 
 ✅ 52. Write a Python program to find second largest number in a list.
 
-53. Write a Python program to find N largest elements from a list.
+✅ 53. Write a Python program to find N largest elements from a list.
 
 54. Write a Python program to print even numbers in a list.
 
