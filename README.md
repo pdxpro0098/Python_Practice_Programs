@@ -106,9 +106,9 @@
 
 ✅ 53. Write a Python program to find N largest elements from a list.
 
-54. Write a Python program to print even numbers in a list.
+✅ 54. Write a Python program to print even numbers in a list.
 
-55. Write a Python program to print odd numbers in a list.
+✅ 55. Write a Python program to print odd numbers in a list.
 
 56. Write a Python program to remove empty list from list.
 
