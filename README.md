@@ -110,13 +110,13 @@
 
 ✅ 55. Write a Python program to print odd numbers in a list.
 
-56. Write a Python program to remove empty list from list.
+✅ 56. Write a Python program to remove empty list from list.
 
-57. Write a Python program for cloning or copying a list.
+✅ 57. Write a Python program for cloning or copying a list.
 
 58. Write a Python program to count occurrences of an element in a list.
 
-59. Write a Python program to find words which are greater than given length k.
+✅ 59. Write a Python program to find words which are greater than given length k.
 
 60. Write a Python program for removing ith character from a string.
 
