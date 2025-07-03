@@ -118,7 +118,7 @@
 
 ✅ 59. Write a Python program to find words which are greater than given length k.
 
-60. Write a Python program for removing ith character from a string.
+✅ 60. Write a Python program for removing nth character from a string.
 
 61. Write a Python program to split and join a string.
 
