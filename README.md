@@ -120,7 +120,7 @@
 
 ✅ 60. Write a Python program for removing nth character from a string.
 
-61. Write a Python program to split and join a string.
+✅ 61. Write a Python program to split and join a string.
 
 62. Write a Python program to check if a given string is binary string or not.
 
