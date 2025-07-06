@@ -122,7 +122,7 @@
 
 ✅ 61. Write a Python program to split and join a string.
 
-62. Write a Python program to check if a given string is binary string or not.
+✅ 62. Write a Python program to check if a given string is binary string or not.
 
 63. Write a Python program to find uncommon words from two strings.
 
