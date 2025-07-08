@@ -124,7 +124,7 @@
 
 ✅ 62. Write a Python program to check if a given string is binary string or not.
 
-63. Write a Python program to find uncommon words from two strings.
+✅ 63. Write a Python program to find uncommon words from two strings.
 
 64. Write a Python Program to find duplicate characters in a string.
 
