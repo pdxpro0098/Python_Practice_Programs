@@ -126,7 +126,7 @@
 
 ✅ 63. Write a Python program to find uncommon words from two strings.
 
-64. Write a Python Program to find duplicate characters in a string.
+✅ 64. Write a Python Program to find duplicate characters in a string.
 
 65. Write a Python Program to check if a string contains any special character.
 
