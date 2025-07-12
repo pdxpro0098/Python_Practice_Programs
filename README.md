@@ -128,7 +128,7 @@
 
 ✅ 64. Write a Python Program to find duplicate characters in a string.
 
-65. Write a Python Program to check if a string contains any special character.
+✅ 65. Write a Python Program to check if a string contains any special character.
 
 66. Write a Python Program to extract unique dictionary values.
 
