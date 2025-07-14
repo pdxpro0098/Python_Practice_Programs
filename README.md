@@ -130,7 +130,7 @@
 
 ✅ 65. Write a Python Program to check if a string contains any special character.
 
-66. Write a Python Program to extract unique dictionary values.
+✅ 66. Write a Python Program to extract unique dictionary values.
 
 ✅ 67. Write a Python Program to merge two dictionaries.
 

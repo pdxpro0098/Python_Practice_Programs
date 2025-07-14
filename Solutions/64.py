@@ -1,4 +1,4 @@
-string = "64. Write a Python Program to find duplicate characters in a string."
+string = "a a b c c d "
 
 dupChar: list[str] = []
 
