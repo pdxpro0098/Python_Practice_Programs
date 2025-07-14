@@ -132,7 +132,7 @@
 
 66. Write a Python Program to extract unique dictionary values.
 
-67. Write a Python Program to merge two dictionaries.
+✅ 67. Write a Python Program to merge two dictionaries.
 
 68. Write a Python Program to sort a dictionary by key.
 
