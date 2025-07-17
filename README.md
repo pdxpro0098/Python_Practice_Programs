@@ -114,7 +114,7 @@
 
 ✅ 57. Write a Python program for cloning or copying a list.
 
-58. Write a Python program to count occurrences of an element in a list.
+✅ 58. Write a Python program to count occurrences of an element in a list.
 
 ✅ 59. Write a Python program to find words which are greater than given length k.
 
