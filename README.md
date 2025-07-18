@@ -134,15 +134,15 @@
 
 ✅ 67. Write a Python Program to merge two dictionaries.
 
-68. Write a Python Program to sort a dictionary by key.
+✅ 68. Write a Python Program to sort a dictionary by key.
 
-69. Write a Python Program to sort a dictionary by value.
+✅ 69. Write a Python Program to sort a dictionary by value.
 
-70. Write a Python Program to sum all the items in a dictionary.
+✅ 70. Write a Python Program to sum all the items in a dictionary.
 
-71. Write a Python Program to multiply all the items in a dictionary.
+✅ 71. Write a Python Program to multiply all the items in a dictionary.
 
-72. Write a Python Program to remove a key from a dictionary.
+✅ 72. Write a Python Program to remove a key from a dictionary.
 
 73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
 
