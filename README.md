@@ -146,7 +146,7 @@
 
 73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
 
-74. Write a Python Program to generate a 2D array where the element value is i*j.
+✅ 74. Write a Python Program to generate a 2D array where the element value is i*j.
 
 75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
 
