@@ -148,7 +148,7 @@
 
 ✅ 74. Write a Python Program to generate a 2D array where the element value is i*j.
 
-75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
+✅ 75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
 
 76. Write a Python Program to remove duplicate words and sort them alphanumerically.
 
