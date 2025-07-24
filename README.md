@@ -150,7 +150,7 @@
 
 ✅ 75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
 
-76. Write a Python Program to remove duplicate words and sort them alphanumerically.
+✅ 76. Write a Python Program to remove duplicate words and sort them alphanumerically.
 
 77. Write a Python Program to count the number of each character in a string.
 
