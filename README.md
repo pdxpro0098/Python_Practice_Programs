@@ -152,7 +152,7 @@
 
 ✅ 76. Write a Python Program to remove duplicate words and sort them alphanumerically.
 
-77. Write a Python Program to count the number of each character in a string.
+✅ 77. Write a Python Program to count the number of each character in a string.
 
 78. Write a Python Program to count letters and digits in a sentence.
 
