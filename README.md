@@ -154,7 +154,7 @@
 
 ✅ 77. Write a Python Program to count the number of each character in a string.
 
-78. Write a Python Program to count letters and digits in a sentence.
+✅ 78. Write a Python Program to count letters and digits in a sentence.
 
 79. Write a Python Program to check password validity based on multiple conditions.
 

@@ -3,7 +3,7 @@ wordMap = dict()
 
 for char in string:
     if char in wordMap:
-        wordMap[char] += 1
+        wordMap[char] +=1
     else:
         wordMap[char] = 1
 
