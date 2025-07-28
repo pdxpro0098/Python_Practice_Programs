@@ -1,2 +1,6 @@
-lst = [12,34,56,4,78,90]
-print(min(lst))
+numbers = [2,5,6,9,4,3]
+result = 1
+for item in numbers:
+    result *= item
+    
+print(f"{result} is Product of All numbers.")
