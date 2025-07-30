@@ -16,7 +16,7 @@
 
 ✅ 8. Write a Python program to display calendar.
 
-9. Write a Python program to solve quadratic equation.
+✅ 9. Write a Python program to solve quadratic equation.
 
 ✅ 10. Write a Python program to swap two variables without temp variable.
 
