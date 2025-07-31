@@ -206,7 +206,7 @@
 
 103. Write a Python Program to unpack list values into variables.
 
-104. Write a Python Program to calculate factorial using recursion.
+✅ 104. Write a Python Program to calculate factorial using recursion.
 
 105. Write a Python Program to move all elements of one type to the end of a list.
 
@@ -254,7 +254,7 @@
 
 127. Write a Python Program to convert lowercase characters to uppercase.
 
-128. Write a Python Program to square every digit of a number.
+✅ 128. Write a Python Program to square every digit of a number.
 
 129. Write a Python Program to remove duplicates and sort a list.
 
