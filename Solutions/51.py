@@ -6,7 +6,7 @@ print(max(lst))
 def findMax(x):
     max = x[0]
     for i in range(0,len(x)):
-        if(x[i]<max):
+        if(x[i]>max):
             max = x[i]
     return max
 
