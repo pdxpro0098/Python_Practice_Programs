@@ -6,6 +6,6 @@ def extractUsername(email):
         if(ch == '@'):
             break
         username += ch
-    return f"Username: {username}"
+    return username
         
-print(extractUsername(email))
+print("Username:",extractUsername(email))
