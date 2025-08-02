@@ -176,7 +176,7 @@
 
 88. Write a Python Program using list comprehension to generate Fibonacci Sequence.
 
-89. Write a Python Program to extract username from email address.
+✅ 89. Write a Python Program to extract username from email address.
 
 90. Write a Python Program to sort a list of tuples alphabetically.
 
@@ -204,7 +204,7 @@
 
 102. Write a Python Program to implement a simple calculator using classes.
 
-103. Write a Python Program to unpack list values into variables.
+✅ 103. Write a Python Program to unpack list values into variables.
 
 ✅ 104. Write a Python Program to calculate factorial using recursion.
 
