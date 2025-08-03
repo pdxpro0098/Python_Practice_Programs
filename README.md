@@ -156,7 +156,7 @@
 
 ✅ 78. Write a Python Program to count letters and digits in a sentence.
 
-79. Write a Python Program to check password validity based on multiple conditions.
+✅ 79. Write a Python Program to check password validity based on multiple conditions.
 
 80. Write a Python Program to generate numbers divisible by 7 using a generator.
 
