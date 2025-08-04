@@ -190,7 +190,7 @@
 
 95. Write a Python Program to convert decimal number to binary.
 
-96. Write a Python Program to return sum of numbers divisible by c from range a to b.
+✅ 96. Write a Python Program to return sum of numbers divisible by c from range a to b.
 
 97. Write a Python Program to validate inequality expressions.
 
@@ -260,7 +260,7 @@
 
 130. Write a Python Program to calculate the mean of digits of a number.
 
-131. Write a Python Program to multiply all digits in a number.
+✅ 131. Write a Python Program to multiply all digits in a number.
 
 132. Write a Python Program to convert hours and minutes to seconds.
 
