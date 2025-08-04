@@ -170,9 +170,9 @@
 
 85. Write a Python Program to implement binary search in a sorted list.
 
-86. Write a Python Program using generator to print numbers divisible by 5 and 7.
+✅ 86. Write a Python Program using generator to print numbers divisible by 5 and 7.
 
-87. Write a Python Program using generator to print even numbers up to n.
+✅ 87. Write a Python Program using generator to print even numbers up to n.
 
 88. Write a Python Program using list comprehension to generate Fibonacci Sequence.
 
@@ -216,7 +216,7 @@
 
 108. Write a Python Program to find maximum product of two integers in an array.
 
-109. Write a Python Program to calculate sum of all even numbers in a list.
+✅ 109. Write a Python Program to calculate sum of all even numbers in a list.
 
 110. Write a Python Program to find the index of all capital letters in a word.
 
@@ -242,7 +242,7 @@
 
 121. Write a Python Program to count the vowels in a string.
 
-122. Write a Python Program to reverse words in a given string.
+✅ 122. Write a Python Program to reverse words in a given string.
 
 123. Write a Python Program to calculate perimeter of a rectangle.
 
@@ -262,7 +262,7 @@
 
 ✅ 131. Write a Python Program to multiply all digits in a number.
 
-132. Write a Python Program to convert hours and minutes to seconds.
+✅ 132. Write a Python Program to convert hours and minutes to seconds.
 
 133. Write a Python Program to count set bits in binary representation of a number.
 
@@ -270,7 +270,7 @@
 
 135. Write a Python Program to read a file line by line and store it into a list.
 
-136. Write a Python Program to append text to a file and display the content.
+✅ 136. Write a Python Program to append text to a file and display the content.
 
 137. Write a Python Program to copy the contents of a file to another file.
 
