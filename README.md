@@ -158,11 +158,11 @@
 
 ✅ 79. Write a Python Program to check password validity based on multiple conditions.
 
-80. Write a Python Program to generate numbers divisible by 7 using a generator.
+✅ 80. Write a Python Program to generate numbers divisible by 7 using a generator.
 
 81. Write a Python Program to calculate bank account net amount from transaction log.
 
-82. Write a Python Program to sort a list of tuples based on the second element.
+✅ 82. Write a Python Program to sort a list of tuples based on the second element.
 
 83. Write a Python Program to count frequency of words in a given line of text.
 
