@@ -168,7 +168,7 @@
 
 84. Write a Python Program to compress and decompress a string using zlib.
 
-85. Write a Python Program to implement binary search in a sorted list.
+✅ 85. Write a Python Program to implement binary search in a sorted list.
 
 ✅ 86. Write a Python Program using generator to print numbers divisible by 5 and 7.
 
@@ -238,7 +238,7 @@
 
 119. Write a Python Program to compute compound interest.
 
-120. Write a Python Program to check if a string is palindrome.
+✅ 120. Write a Python Program to check if a string is palindrome.
 
 121. Write a Python Program to count the vowels in a string.
 
