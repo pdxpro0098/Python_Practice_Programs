@@ -184,7 +184,7 @@
 
 92. Write a Python Program to count occurrences of each word in a sentence.
 
-93. Write a Python Program to check if a number is a Curzon number.
+✅ 93. Write a Python Program to check if a number is a Curzon number.
 
 94. Write a Python Program to find area of a hexagon.
 
@@ -192,7 +192,7 @@
 
 ✅ 96. Write a Python Program to return sum of numbers divisible by c from range a to b.
 
-97. Write a Python Program to validate inequality expressions.
+✅ 97. Write a Python Program to validate inequality expressions.
 
 98. Write a Python Program to convert snake_case to camelCase.
 
@@ -276,4 +276,4 @@
 
 138. Write a Python Program to merge two text files and write into a new one.
 
-139. Write a Python Program to remove newline characters from a file.
+139. Write a Python Program to remove newline characters from
