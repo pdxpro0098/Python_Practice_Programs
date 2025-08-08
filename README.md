@@ -165,7 +165,7 @@
 ✅ 82. Write a Python Program to sort a list of tuples based on the second element.
 
 ✅ 83. Write a Python Program to count frequency of words in a given line of text.
-
+    
 ✅ 84. Write a Python Program to compress and decompress a string using zlib.
 
 ✅ 85. Write a Python Program to implement binary search in a sorted list.
@@ -178,7 +178,7 @@
 
 ✅ 89. Write a Python Program to extract username from email address.
 
-90. Write a Python Program to sort a list of tuples alphabetically.
+✅ 90. Write a Python Program to sort a list of tuples alphabetically.
 
 91. Write a Python Program to check if a string is a pangram.
 
