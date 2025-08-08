@@ -174,7 +174,7 @@
 
 ✅ 87. Write a Python Program using generator to print even numbers up to n.
 
-88. Write a Python Program using list comprehension to generate Fibonacci Sequence.
+✅ 88. Write a Python Program using list comprehension to generate Fibonacci Sequence.
 
 ✅ 89. Write a Python Program to extract username from email address.
 
@@ -184,7 +184,7 @@
 
 92. Write a Python Program to count occurrences of each word in a sentence.
 
-93. Write a Python Program to check if a number is a Curzon number.
+✅ 93. Write a Python Program to check if a number is a Curzon number.
 
 94. Write a Python Program to find area of a hexagon.
 
