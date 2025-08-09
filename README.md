@@ -196,7 +196,7 @@
 
 98. Write a Python Program to convert snake_case to camelCase.
 
-99. Write a Python Program to check if a year is a leap year.
+✅ 99. Write a Python Program to check if a year is a leap year.
 
 100. Write a Python Program to create a class and display its attributes.
 
@@ -210,9 +210,9 @@
 
 105. Write a Python Program to move all elements of one type to the end of a list.
 
-106. Write a Python Program to check if a list is symmetric.
+✅ 106. Write a Python Program to check if a list is symmetric.
 
-107. Write a Python Program to check if a list is symmetric.
+✅ 107. Write a Python Program to check if a list is symmetric.
 
 108. Write a Python Program to find maximum product of two integers in an array.
 
