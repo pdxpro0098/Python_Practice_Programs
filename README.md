@@ -210,9 +210,9 @@
 
 105. Write a Python Program to move all elements of one type to the end of a list.
 
-106. Write a Python Program to check if a list is symmetric.
+✅ 106. Write a Python Program to check if a list is symmetric.
 
-107. Write a Python Program to check if a list is symmetric.
+✅ 107. Write a Python Program to check if a list is symmetric.
 
 108. Write a Python Program to find maximum product of two integers in an array.
 
