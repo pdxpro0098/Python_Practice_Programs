@@ -180,7 +180,7 @@
 
 ✅ 90. Write a Python Program to sort a list of tuples alphabetically.
 
-91. Write a Python Program to check if a string is a pangram.
+✅ 91. Write a Python Program to check if a string is a pangram.
 
 92. Write a Python Program to count occurrences of each word in a sentence.
 
