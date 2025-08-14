@@ -58,7 +58,7 @@
 
 ✅ 29. Write a Python program to calculate your Body Mass Index.
 
-30. Write a Python program to calculate the natural logarithm of any number.
+✅30. Write a Python program to calculate the natural logarithm of any number.
 
 ✅ 31. Write a Python program for cube sum of first n natural numbers.
 
