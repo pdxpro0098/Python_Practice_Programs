@@ -23,5 +23,3 @@ def isDisarium(n):
     return "Disarium" if result == n else "Not Disarium"
 
 print(isDisarium(89))
-
-

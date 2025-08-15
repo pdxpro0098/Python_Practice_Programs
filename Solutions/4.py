@@ -1,10 +1,6 @@
-def swap(a,b):
-    print(f"The previous value \n a = {a} \n b = {b}")
-    temp = a
-    a = b 
-    b = temp
-    result = f"The swapped value \n a = {a} \n b = {b}"
-    print(result)
-    return result
+a = 12
+b = 14
+a, b = b, a
 
-swap(34,65)
+
+print(a, b)

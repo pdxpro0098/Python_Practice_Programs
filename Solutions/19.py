@@ -12,5 +12,3 @@ if sum==numCp:
     print("armstrong")
 else:
     print("not armstrong")
-    
-

@@ -9,8 +9,3 @@ def prime(num):
 for i in range(1,10):
     if prime(i):
         print(i)
-
-num: int = 0
-num = "from"
-
-print(num)

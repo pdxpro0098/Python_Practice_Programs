@@ -1,4 +1,4 @@
-def celsiusToFarenherit(celsius):
+def celsiusToFahrenheit(celsius):
     return (celsius * 9/5) + 32
 
-print(celsiusToFarenherit(-6))
+print(celsiusToFahrenheit(-6))
