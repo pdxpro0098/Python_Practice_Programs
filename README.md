@@ -182,47 +182,47 @@
 
 ✅ 91. Write a Python Program to check if a string is a pangram.
 
-92. Write a Python Program to count occurrences of each word in a sentence.
+✅ 92. Write a Python Program to count occurrences of each word in a sentence.
 
 ✅ 93. Write a Python Program to check if a number is a Curzon number.
 
-94. Write a Python Program to find area of a hexagon.
+✅ 94. Write a Python Program to find area of a hexagon.
 
-95. Write a Python Program to convert decimal number to binary.
+✅ 95. Write a Python Program to convert decimal number to binary.
 
 ✅ 96. Write a Python Program to return sum of numbers divisible by c from range a to b.
 
 ✅ 97. Write a Python Program to validate inequality expressions.
 
-98. Write a Python Program to convert snake_case to camelCase.
+✅ 98. Write a Python Program to convert snake_case to camelCase.
 
 99. Write a Python Program to check if a year is a leap year.
 
-100. Write a Python Program to create a class and display its attributes.
+✅ 100. Write a Python Program to create a class and display its attributes.
 
-101. Write a Python Program to define a Circle class with area and perimeter methods.
+✅ 101. Write a Python Program to define a Circle class with area and perimeter methods.
 
-102. Write a Python Program to implement a simple calculator using classes.
+✅ 102. Write a Python Program to implement a simple calculator using classes.
 
 ✅ 103. Write a Python Program to unpack list values into variables.
 
 ✅ 104. Write a Python Program to calculate factorial using recursion.
 
-105. Write a Python Program to move all elements of one type to the end of a list.
+✅ 105. Write a Python Program to move all elements of one type to the end of a list.
 
 ✅ 106. Write a Python Program to check if a list is symmetric.
 
 ✅ 107. Write a Python Program to check if a list is symmetric.
 
-108. Write a Python Program to find maximum product of two integers in an array.
+✅ 108. Write a Python Program to find maximum product of two integers in an array.
 
 ✅ 109. Write a Python Program to calculate sum of all even numbers in a list.
 
-110. Write a Python Program to find the index of all capital letters in a word.
+✅ 110. Write a Python Program to find the index of all capital letters in a word.
 
-111. Write a Python Program to filter a list and return only integers.
+✅ 111. Write a Python Program to filter a list and return only integers.
 
-112. Write a Python Program to add index values to elements in a list.
+✅ 112. Write a Python Program to add index values to elements in a list.
 
 113. Write a Python Program to multiply numbers given as comma-separated string.
 
