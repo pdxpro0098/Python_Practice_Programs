@@ -248,7 +248,7 @@
 
 ✅ 124. Write a Python Program to check if two strings are anagrams.
 
-125. Write a Python Program to check whether a string contains only digits.
+✅ 125. Write a Python Program to check whether a string contains only digits.
 
 126. Write a Python Program to print the common elements between two lists.
 
