@@ -228,7 +228,7 @@
 
 ✅ 114. Write a Python Program to check if a string ends with a certain suffix.
 
-115. Write a Python Program to return the next number in a list after popping the first.
+✅ 115. Write a Python Program to return the next number in a list after popping the first.
 
 116. Write a Python Program to merge two dictionaries using dictionary comprehension.
 
