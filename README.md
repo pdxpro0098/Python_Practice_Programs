@@ -250,7 +250,7 @@
 
 ✅ 125. Write a Python Program to check whether a string contains only digits.
 
-126. Write a Python Program to print the common elements between two lists.
+✅ 126. Write a Python Program to print the common elements between two lists.
 
 127. Write a Python Program to convert lowercase characters to uppercase.
 
