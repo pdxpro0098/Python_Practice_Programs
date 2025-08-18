@@ -252,7 +252,7 @@
 
 ✅ 126. Write a Python Program to print the common elements between two lists.
 
-127. Write a Python Program to convert lowercase characters to uppercase.
+✅ 127. Write a Python Program to convert lowercase characters to uppercase.
 
 ✅ 128. Write a Python Program to square every digit of a number.
 
