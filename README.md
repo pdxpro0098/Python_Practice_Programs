@@ -240,7 +240,7 @@
 
 ✅ 120. Write a Python Program to check if a string is palindrome.
 
-121. Write a Python Program to count the vowels in a string.
+✅ 121. Write a Python Program to count the vowels in a string.
 
 ✅ 122. Write a Python Program to reverse words in a given string.
 
