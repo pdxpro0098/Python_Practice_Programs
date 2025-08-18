@@ -258,7 +258,7 @@
 
 ✅ 129. Write a Python Program to remove duplicates and sort a list.
 
-130. Write a Python Program to calculate the mean of digits of a number.
+✅ 130. Write a Python Program to calculate the mean of digits of a number.
 
 ✅ 131. Write a Python Program to multiply all digits in a number.
 
