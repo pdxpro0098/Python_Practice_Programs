@@ -224,9 +224,9 @@
 
 ✅ 112. Write a Python Program to add index values to elements in a list.
 
-113. Write a Python Program to multiply numbers given as comma-separated string.
+✅ 113. Write a Python Program to multiply numbers given as comma-separated string.
 
-114. Write a Python Program to check if a string ends with a certain suffix.
+✅ 114. Write a Python Program to check if a string ends with a certain suffix.
 
 115. Write a Python Program to return the next number in a list after popping the first.
 
