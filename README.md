@@ -246,7 +246,7 @@
 
 ✅ 123. Write a Python Program to calculate perimeter of a rectangle.
 
-124. Write a Python Program to check if two strings are anagrams.
+✅ 124. Write a Python Program to check if two strings are anagrams.
 
 125. Write a Python Program to check whether a string contains only digits.
 
