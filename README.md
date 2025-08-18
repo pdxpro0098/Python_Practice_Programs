@@ -234,7 +234,7 @@
 
 ✅ 117. Write a Python Program to reverse a string without using built-in reverse.
 
-118. Write a Python Program to sort letters of a string alphabetically.
+✅ 118. Write a Python Program to sort letters of a string alphabetically.
 
 119. Write a Python Program to compute compound interest.
 
