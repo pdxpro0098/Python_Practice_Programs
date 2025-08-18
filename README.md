@@ -244,7 +244,7 @@
 
 ✅ 122. Write a Python Program to reverse words in a given string.
 
-123. Write a Python Program to calculate perimeter of a rectangle.
+✅ 123. Write a Python Program to calculate perimeter of a rectangle.
 
 124. Write a Python Program to check if two strings are anagrams.
 
