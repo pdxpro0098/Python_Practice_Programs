@@ -256,7 +256,7 @@
 
 ✅ 128. Write a Python Program to square every digit of a number.
 
-129. Write a Python Program to remove duplicates and sort a list.
+✅ 129. Write a Python Program to remove duplicates and sort a list.
 
 130. Write a Python Program to calculate the mean of digits of a number.
 
