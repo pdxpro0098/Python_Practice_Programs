@@ -232,7 +232,7 @@
 
 116. Write a Python Program to merge two dictionaries using dictionary comprehension.
 
-117. Write a Python Program to reverse a string without using built-in reverse.
+✅ 117. Write a Python Program to reverse a string without using built-in reverse.
 
 118. Write a Python Program to sort letters of a string alphabetically.
 
