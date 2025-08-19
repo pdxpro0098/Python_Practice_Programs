@@ -264,9 +264,9 @@
 
 ✅ 132. Write a Python Program to convert hours and minutes to seconds.
 
-133. Write a Python Program to count set bits in binary representation of a number.
+✅ 133. Write a Python Program to count set bits in binary representation of a number.
 
-134. Write a Python Program to count words in a file.
+✅ 134. Write a Python Program to count words in a file.
 
 135. Write a Python Program to read a file line by line and store it into a list.
 
