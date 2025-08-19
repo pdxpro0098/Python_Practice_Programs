@@ -274,6 +274,6 @@
 
 ✅ 137. Write a Python Program to copy the contents of a file to another file.
 
-138. Write a Python Program to merge two text files and write into a new one.
+✅ 138. Write a Python Program to merge two text files and write into a new one.
 
-139. Write a Python Program to remove newline characters from
+139. Write a Python Program to remove newline characters from string
