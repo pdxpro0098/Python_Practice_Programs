@@ -268,7 +268,7 @@
 
 ✅ 134. Write a Python Program to count words in a file.
 
-135. Write a Python Program to read a file line by line and store it into a list.
+✅ 135. Write a Python Program to read a file line by line and store it into a list.
 
 ✅ 136. Write a Python Program to append text to a file and display the content.
 
