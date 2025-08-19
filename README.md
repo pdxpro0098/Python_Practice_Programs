@@ -276,4 +276,4 @@
 
 ✅ 138. Write a Python Program to merge two text files and write into a new one.
 
-139. Write a Python Program to remove newline characters from string
+✅ 139. Write a Python Program to remove newline characters from string
