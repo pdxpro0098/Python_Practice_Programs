@@ -196,7 +196,7 @@
 
 ✅ 98. Write a Python Program to convert snake_case to camelCase.
 
-99. Write a Python Program to check if a year is a leap year.
+✅ 99. Write a Python Program to check if a year is a leap year.
 
 ✅ 100. Write a Python Program to create a class and display its attributes.
 
