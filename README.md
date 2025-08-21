@@ -144,7 +144,7 @@
 
 ✅ 72. Write a Python Program to remove a key from a dictionary.
 
-73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
+✅ 73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
 
 ✅ 74. Write a Python Program to generate a 2D array where the element value is i*j.
 
