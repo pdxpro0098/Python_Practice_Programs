@@ -1,4 +1,12 @@
-def mean(lst):
-    return sum(lst) / len(lst)
-lst = [1,2,3,4,5,6,7,8,9,10]
-print(mean(lst))
+def mean(nums):
+    lst = [int(digit) for digit in str(nums)]
+    m = 0
+    c = 0
+    for num in lst:
+        c += 1
+        m += (num)
+    return m / c
+
+
+digit = 4444
+print(mean(digit))
