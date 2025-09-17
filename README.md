@@ -212,7 +212,7 @@
 
 ✅ 106. Write a Python Program to check if a list is symmetric.
 
-✅ 107. Write a Python Program to check if a list is symmetric.
+✅ 107. Write a Python Program to find the missing number in a given list of consecutive numbers.
 
 ✅ 108. Write a Python Program to find maximum product of two integers in an array.
 
