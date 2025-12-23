@@ -7,9 +7,6 @@ print(string)
 
 # Dalip's Approach
 name = "Bruno Mars"
-
 dontneed = 'o'
-
 replaced = name.replace(dontneed,"")
-
 print(replaced)
