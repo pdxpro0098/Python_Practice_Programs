@@ -4,5 +4,5 @@ def removePunctuations(string):
     return string.translate(table)
 
 
-string = """t!!!h@@i## s$$%%^^t&&r**in(g)) __=++--++_h[][a:":|;':"|:\\ve<>,/.,>.,/., so mu{}{ch pu:":"|;';\()_*@$()&!@$*(nc*(()tua:"|.;,<>?,ti"|:{)()*&&^@!#$on"""
+string = """t!!!h@@i## s$$%.%^^t&&r**in(g)) __=++--++_h[][a:":|;':"|:\\ve<>,/.,>.,/., so mu{,{ch pu:":"|;';)_*@$()&!@$*(nc*(()tua:"|.;,<>?,ti"|:{)()*&&^@!#$on"""
 print(removePunctuations(string))

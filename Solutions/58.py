@@ -12,7 +12,7 @@ for val in lst:
 print(lstMap)
 
 # Dalip's Approach
-def occurence(x,n):
+def occurrence(x,n):
     count = 0
     for i in x:
         if(x[i] == n):
@@ -23,6 +23,6 @@ items = [2,4,3,6,4,5,7,6,4]
 
 number = int(input("Enter the number which you want to find: "))
 
-occured = occurence(items,number)
+occurred = occurrence(items,number)
 
-print(f"Occurence of {number} is {occured}")
+print(f"Occurrence of {number} is {occurred}")

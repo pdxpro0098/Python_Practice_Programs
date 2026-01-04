@@ -3,14 +3,14 @@ lst = [12,34,56,78,999]
 print(max(lst))
 
 # Dalip's Approach
-def findMin(x):
-    min = x[0]
+def findMax(x):
+    max = x[0]
     for i in range(0,len(x)):
-        if(x[i]<min):
-            min = x[i]
-    return min
+        if(x[i]>max):
+            max = x[i]
+    return max
 
 items = [9,5,6,4,3]
 
-minimum = findMin(items)
-print(f"The minimum number of The list is {minimum}")
+maximum = findMax(items)
+print(f"The maximum number of The list is {maximum}")
