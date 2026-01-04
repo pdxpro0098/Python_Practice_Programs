@@ -1,3 +1,4 @@
+# krish's Approach
 # Krish's Approach
 string = "01010101010"
 flag = True
