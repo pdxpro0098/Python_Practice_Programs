@@ -17,8 +17,9 @@ dict1.update(dict2)
 print(dict1)
 
 # Dalip's Approach
-employees1 ={'dalip':456,'krish':420}
-employees2 ={'mark':965,'elon':333}
+my_dict = {"food":"cuisine","week":"fragile"}
+my_dict1 = {"slow":"sluggish"}
 
-employees1.update(employees2)
-print("Megred Dictionary:",employees1)
+
+merged_dict = {**my_dict,**my_dict1}
+print(merged_dict)
