@@ -1,3 +1,4 @@
+# Krish's Approach
 import math
 
 numbers = input("Provide D: ")
@@ -9,3 +10,19 @@ for D in numbers:
     result_list.append(Q)
 
 print(result_list)
+
+# Dalip's Approach
+import math
+numbers = list(input("Enter the values(C ,D ,H): ").split(","))
+# num = [int(ch) for ch in numbers]
+c,d,h = map(int,numbers)
+
+# Q = (sqrt((2*C*D)/H))3,
+#An algebric formula
+
+def qComputing(c,d,h):
+    Q = (2*c*d)/h
+    return math.sqrt(Q)
+
+print(round(qComputing(c,d,h),2))
+
