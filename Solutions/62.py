@@ -1,5 +1,4 @@
 # krish's Approach
-# Krish's Approach
 string = "01010101010"
 flag = True
 for char in range(len(string)-1):
