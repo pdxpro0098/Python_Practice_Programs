@@ -1,3 +1,4 @@
+# Krish's Approach
 def removeDuplicateValues(dictionary):
     result = {}
     seen_values = set()
@@ -20,3 +21,22 @@ dict1 = {
 
 d = removeDuplicateValues(dict1)
 print(d)
+
+
+# Dalip's Approach
+def removeDuplicateValuesFromDictionary(apartement):
+    unique = {}
+    for key,value in apartment.items():
+        if value not in unique.values():
+            unique[key] = value
+    return unique
+
+apartment = {
+    1:"1st Floor",
+    2:"2nd Floor",
+    3:"3rd Floor",
+    4:"1st Floor",
+    5:"5th Floor"
+}
+    
+print(f"After removing duplicates values: {removeDuplicateValuesFromDictionary(apartment)}")
