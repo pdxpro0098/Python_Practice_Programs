@@ -45,7 +45,7 @@
 ✅ 22. Write a Python program to find HCF.
 
 ✅ 23. Write a Python program to find LCM.
-    
+
 ✅ 24. Write a Python program to convert decimal to binary, octal and hexadecimal.
 
 ✅ 25. Write a Python program to find ASCII value of a character.
@@ -146,7 +146,7 @@
 
 ✅ 73. Write a Python Program to calculate Q = √[(2 * C * D)/H] with values provided as comma-separated input.
 
-✅ 74. Write a Python Program to generate a 2D array where the element value is i*j.
+✅ 74. Write a Python Program to generate a 2D array where the element value is i\*j.
 
 ✅ 75. Write a Python Program to sort a comma-separated sequence of words alphabetically.
 
@@ -160,12 +160,12 @@
 
 ✅ 80. Write a Python Program to generate numbers divisible by 7 using a generator.
 
-81. Write a Python Program to calculate bank account net amount from transaction log.
+✅ 81. Write a Python Program to calculate bank account net amount from transaction log.
 
 ✅ 82. Write a Python Program to sort a list of tuples based on the second element.
 
 ✅ 83. Write a Python Program to count frequency of words in a given line of text.
-    
+
 ✅ 84. Write a Python Program to compress and decompress a string using zlib.
 
 ✅ 85. Write a Python Program to implement binary search in a sorted list.
