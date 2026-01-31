@@ -1,3 +1,4 @@
+# Krish's Approach
 
 string = "count how many time the word word appeared in it"
 
@@ -12,3 +13,15 @@ for _ in string:
         count += 1
 
 print(count)
+
+# Dalip's Approach
+sentence  = "eye for an eye"
+
+word = "eye"
+count = 0
+
+for w in sentence.split(' '):
+    if word in w:
+        count+=1
+
+print(f"Word repeating {count} times.")
