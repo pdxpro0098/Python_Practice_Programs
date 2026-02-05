@@ -212,70 +212,68 @@
 
 ✅ 106. Write a Python Program to check if a list is symmetric.
 
-✅ 107. Write a Python Program to check if a list is symmetric.
+✅ 107. Write a Python Program to find maximum product of two integers in an array.
 
-✅ 108. Write a Python Program to find maximum product of two integers in an array.
+✅ 108. Write a Python Program to calculate sum of all even numbers in a list.
 
-✅ 109. Write a Python Program to calculate sum of all even numbers in a list.
+✅ 109. Write a Python Program to find the index of all capital letters in a word.
 
-✅ 110. Write a Python Program to find the index of all capital letters in a word.
+✅ 110. Write a Python Program to filter a list and return only integers.
 
-✅ 111. Write a Python Program to filter a list and return only integers.
+✅ 111. Write a Python Program to add index values to elements in a list.
 
-✅ 112. Write a Python Program to add index values to elements in a list.
+✅ 112. Write a Python Program to multiply numbers given as comma-separated string.
 
-✅ 113. Write a Python Program to multiply numbers given as comma-separated string.
+✅ 113. Write a Python Program to check if a string ends with a certain suffix.
 
-✅ 114. Write a Python Program to check if a string ends with a certain suffix.
+✅ 114. Write a Python Program to return the next number in a list after popping the first.
 
-✅ 115. Write a Python Program to return the next number in a list after popping the first.
+115. Write a Python Program to merge two dictionaries using dictionary comprehension.
 
-116. Write a Python Program to merge two dictionaries using dictionary comprehension.
+✅ 116. Write a Python Program to reverse a string without using built-in reverse.
 
-✅ 117. Write a Python Program to reverse a string without using built-in reverse.
+✅ 117. Write a Python Program to sort letters of a string alphabetically.
 
-✅ 118. Write a Python Program to sort letters of a string alphabetically.
+✅ 118. Write a Python Program to compute compound interest.
 
-✅ 119. Write a Python Program to compute compound interest.
+✅ 119. Write a Python Program to check if a string is palindrome.
 
-✅ 120. Write a Python Program to check if a string is palindrome.
+✅ 120. Write a Python Program to count the vowels in a string.
 
-✅ 121. Write a Python Program to count the vowels in a string.
+✅ 121. Write a Python Program to reverse words in a given string.
 
-✅ 122. Write a Python Program to reverse words in a given string.
+✅ 122. Write a Python Program to calculate perimeter of a rectangle.
 
-✅ 123. Write a Python Program to calculate perimeter of a rectangle.
+✅ 123. Write a Python Program to check if two strings are anagrams.
 
-✅ 124. Write a Python Program to check if two strings are anagrams.
+✅ 124. Write a Python Program to check whether a string contains only digits.
 
-✅ 125. Write a Python Program to check whether a string contains only digits.
+✅ 125. Write a Python Program to print the common elements between two lists.
 
-✅ 126. Write a Python Program to print the common elements between two lists.
+✅ 126. Write a Python Program to convert lowercase characters to uppercase.
 
-✅ 127. Write a Python Program to convert lowercase characters to uppercase.
+✅ 127. Write a Python Program to square every digit of a number.
 
-✅ 128. Write a Python Program to square every digit of a number.
+✅ 128. Write a Python Program to remove duplicates and sort a list.
 
-✅ 129. Write a Python Program to remove duplicates and sort a list.
+✅ 129. Write a Python Program to calculate the mean of digits of a number.
 
-✅ 130. Write a Python Program to calculate the mean of digits of a number.
+✅ 130. Write a Python Program to multiply all digits in a number.
 
-✅ 131. Write a Python Program to multiply all digits in a number.
+✅ 131. Write a Python Program to convert hours and minutes to seconds.
 
-✅ 132. Write a Python Program to convert hours and minutes to seconds.
+✅ 132. Write a Python Program to count set bits in binary representation of a number.
 
-✅ 133. Write a Python Program to count set bits in binary representation of a number.
+✅ 133. Write a Python Program to count words in a file.
 
-✅ 134. Write a Python Program to count words in a file.
+✅ 134. Write a Python Program to read a file line by line and store it into a list.
 
-✅ 135. Write a Python Program to read a file line by line and store it into a list.
+✅ 135. Write a Python Program to append text to a file and display the content.
 
-✅ 136. Write a Python Program to append text to a file and display the content.
+✅ 136. Write a Python Program to copy the contents of a file to another file.
 
-✅ 137. Write a Python Program to copy the contents of a file to another file.
+✅ 137. Write a Python Program to merge two text files and write into a new one.
 
-✅ 138. Write a Python Program to merge two text files and write into a new one.
+✅ 138. Write a Python Program to remove newline characters from string
 
-✅ 139. Write a Python Program to remove newline characters from string
-
-✅ 140. Write a Python Program to convert text to morse code.
+✅ 139. Write a Python Program to convert text to morse code.
